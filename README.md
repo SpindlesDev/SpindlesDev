@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpindlesDev
 - 👀 I’m interested in game modding, server hosting, and web development
-- 🌱 I’m currently learning JavaScript and Batch
+- 🌱 I’m currently learning JavaScript, Bash, and Batch
 
 <!---
 SpindlesDev/SpindlesDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
