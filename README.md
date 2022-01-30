@@ -8,8 +8,10 @@
 I am sorry if how this looks is bad to html devs out there, still learning html on the side xD
 --->
 <h3>What I do (Mainly for friends):</h4>
-- Host game servers
-- Create and host Discord bots
+<ul>
+  <li>Host game servers</li>
+  <li>Create and host Discord bots</li>
+</ul>
 
 ### Languages:
 <table>
