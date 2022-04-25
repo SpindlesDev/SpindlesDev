@@ -8,10 +8,11 @@
 <!---
 I am sorry if how this looks is bad to html devs out there, still learning html on the side xD
 --->
-<h3>What I do (Mainly for friends):</h4>
+<h3>What I do:</h4>
 <ul>
-  <li>Host game servers</li>
-  <li>Create and host Discord bots</li>
+  <li>Backend web server in Node.JS using Express.JS.</li>
+  <li>Economy servers for game modifications.</li>
+  <li>Electron based installers for game mods.</li>
 </ul>
 
 ### Languages:
@@ -31,6 +32,14 @@ I am sorry if how this looks is bad to html devs out there, still learning html 
   <tr>
     <td>Powershell</td>
     <td>Java</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML</td>
   </tr>
 </tbody>
 </table>
