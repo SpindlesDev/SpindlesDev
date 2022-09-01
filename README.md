@@ -5,14 +5,11 @@
 <p>I am Spindles. I am fairly good at JavaScript development. I currently know and actively learning JavaScript and Powershell. I do plan on expanding my knowledge to more languages once I am comfortable with  my current knowledge.</p>
 </h4>
 
-<!---
-I am sorry if how this looks is bad to html devs out there, still learning html on the side xD
---->
 <h3>What I do:</h4>
 <ul>
-  <li>Backend web server in Node.JS using Express.JS.</li>
-  <li>Economy servers for game modifications.</li>
-  <li>Electron based installers for game mods.</li>
+  <li>Discord economy bots.</li>
+  <li>Web based economy servers for games.</li>
+  <li>Semi-basic Electron applications/installers</li>
 </ul>
 
 ### Languages:
@@ -20,26 +17,36 @@ I am sorry if how this looks is bad to html devs out there, still learning html 
 <table>
 <thead>
   <tr>
-    <th>Know</th>
     <th>Learning</th>
+    <th>Decent</th>
+    <th>Know</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>JavaScript</td>
-    <td>C++</td>
-  </tr>
-  <tr>
-    <td>Powershell</td>
-    <td>Java</td>
-  </tr>
-  <tr>
-    <td></td>
     <td>CSS</td>
+    <td>JavaScript</td>
+    <td></td>
   </tr>
   <tr>
+    <td>C++</td>
+    <td>Powershell</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Java</td>
     <td>HTML</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kotlin</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
