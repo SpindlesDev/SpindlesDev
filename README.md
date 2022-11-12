@@ -2,7 +2,7 @@
 
 # Hello there!
 <h4>
-<p>I am Spindles or Ryan N. I am fairly good at JavaScript development, which involve a few private web/UDP server and Discord bot projects that are likely to be opened up in the future. </p>
+<p>I am Spindles or Ryan. I am fairly good at JavaScript development, which involve a few private web/UDP server and Discord bot projects that are likely to be opened up in the future. </p>
 </h4>
 
 <h3>What I do:</h4>
