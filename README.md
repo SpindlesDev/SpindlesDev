@@ -7,7 +7,7 @@
 
 <h3>What I do:</h4>
 <ul>
-  <li>Discord bots using DiscordJS v12/v14*.</li>
+  <li>Discord bots using DiscordJS v12 and *v14.</li>
   <li>Web/UDP servers in NodeJS.</li>
   <li>Semi-basic Electron/NW.js applications</li>
 </ul>
