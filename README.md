@@ -45,7 +45,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>TypeScript</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
