@@ -40,8 +40,8 @@
     <td></td>
   </tr>
   <tr>
+    <td>TypeScript</td>
     <td>Kotlin</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
