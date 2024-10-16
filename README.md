@@ -2,16 +2,16 @@
 
 # Hello there!
 <h4>
-<p>I am Spindles or Ryan. I am fairly good at JavaScript development, which involve a few private web/UDP server and Discord bot projects that are likely to be opened up in the future. </p>
+<p>I am Spindles or Ryan. I am good at .NET 8 development, and I have used that knowledge in a few projects, mostly built using Blazor WebAssembly, Blazor Hybrid MAUI, and ASP.net frameworks. Currently, most of my projects are private.</p>
 </h4>
 
 <h3>What I do:</h4>
 <ul>
-  <li>Discord bots using DiscordJS v12 and *v14.</li>
-  <li>Web/UDP servers in NodeJS.</li>
-  <li>Semi-basic Electron/NW.js applications</li>
+  <li>Blazor WebAssembly and Hybrid apps</li>
+  <li>ASP.net web APIs</li>
+  <li>UE3 modding for a single game</li>
+  <li>Minecraft modding in Kotlin & Java</li>
 </ul>
-*Beginning to learn
 
 ### Languages:
 [![SpindlesDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpindlesDev&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,29 +20,24 @@
   <tr>
     <th>Learning</th>
     <th>Decent</th>
-    <th>Know</th>
+    <th>Favorite</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>C++</td>
-    <td>Powershell</td>
-    <td></td>
+    <td>CSS</td>
+    <td>C#</td>
   </tr>
   <tr>
     <td>Java</td>
-    <td>HTML</td>
-    <td></td>
+    <td>TypeScript</td>
+    <td>JavaScript</td>
   </tr>
   <tr>
-    <td>TypeScript</td>
+    <td>Swift</td>
+    <td>Powershell</td>
     <td>Kotlin</td>
-    <td></td>
   </tr>
 </tbody>
 </table>
