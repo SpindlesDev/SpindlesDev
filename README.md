@@ -9,8 +9,8 @@
 <ul>
   <li>Blazor WebAssembly and Hybrid apps</li>
   <li>ASP.net web APIs</li>
-  <li>UE3 modding for a single game</li>
-  <li>Minecraft modding in Kotlin & Java</li>
+  <li>UE3/UE4 modding</li>
+  <li>Minecraft Java modding using Kotlin & Java</li>
 </ul>
 
 ### Languages:
@@ -25,19 +25,29 @@
 </thead>
 <tbody>
   <tr>
-    <td>C++</td>
-    <td>CSS</td>
+    <td>Swift</td>
+    <td>Java</td>
+    <td>UnrealScript</td>
+  </tr>
+  <tr>
+    <td>Obj-C</td>
+    <td>TypeScript</td>
     <td>C#</td>
   </tr>
   <tr>
-    <td>Java</td>
-    <td>TypeScript</td>
+    <td>C++</td>
+    <td>Powershell</td>
+    <td>Kotlin</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Lua</td>
     <td>JavaScript</td>
   </tr>
   <tr>
-    <td>Swift</td>
-    <td>Powershell</td>
-    <td>Kotlin</td>
+    <td></td>
+    <td>CSS</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
