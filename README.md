@@ -7,7 +7,7 @@
 
 <h3>What I do:</h4>
 <ul>
-  <li>Blazor WebAssembly and Hybrid apps</li>
+  <li>Blazor WebAssembly, Blazor MAUI Hybrid, and WPF/WinForm apps</li>
   <li>ASP.net web APIs</li>
   <li>UE3/UE4 modding</li>
   <li>Minecraft Java modding using Kotlin & Java</li>
