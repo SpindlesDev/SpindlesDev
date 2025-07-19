@@ -2,14 +2,16 @@
 
 # Hello there!
 <h4>
-<p>I am Spindles or Ryan. I am good at .NET 8 development, and I have used that knowledge in a few projects, mostly built using Blazor WebAssembly, Blazor Hybrid MAUI, and ASP.net frameworks. Currently, most of my projects are private.</p>
+<p>I am Spindles or Ryan. I am good at .NET 8 development, and I have used that knowledge in a few projects, mostly built using Blazor WebAssembly, Blazor Hybrid MAUI, and ASP.net frameworks. Currently, most of my projects are private for now, internal use only, or behind an NDA.</p>
 </h4>
 
 <h3>What I do:</h4>
 <ul>
   <li>Blazor WebAssembly, Blazor MAUI Hybrid, and WPF/WinForm apps</li>
+  <li>iOS apps and tweaks</li>
   <li>ASP.net web APIs</li>
-  <li>UE3/UE4 modding</li>
+  <li>Unity/Mono modding</li>
+  <li>UE3/UE4/UE5 modding</li>
   <li>Minecraft Java modding using Kotlin & Java</li>
 </ul>
 
